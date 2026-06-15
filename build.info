@@ -1,5 +1,5 @@
 --- build ---
-build.time: 2026-06-12T14:16:05.331483+00:00
+build.time: 2026-06-15T16:35:32.506772+00:00
 build.s3m_protobuild.version: 0.1.0
 build.selector.0: common:pyb
 build.selector.1: slurm:pyb
@@ -10,10 +10,10 @@ build.selector.5: tms:pyb
 build.artifact.0.key: s3m-apis:pyb
 
 --- source: s3m-apis ---
-source.module.version: 0.3.4
+source.module.version: 0.3.5
 source.module.go_package: github.com/olcf/s3m-apis
-source.git.commit: a3fa7f5fa6fc786c471789213b764698eab4f0f8
-source.git.commit_time: 2026-06-12 10:12:46 -0400
+source.git.commit: 1cb13d618c8a52692a0fd7e082cb3bd13fbc8c79
+source.git.commit_time: 2026-06-15 12:33:50 -0400
 source.git.dirty: false
 source.git.untracked: false
 
